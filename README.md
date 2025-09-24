@@ -1,7 +1,7 @@
 # PORTFOLIO- Backend do Software Analise de Gotas 
 
-**Este código representa a primeira versão de estudo. Algumas métricas (como DV01 e DMV) estão incorretas e foram revisadas em versões posteriores. Mantive aqui apenas para portfólio e análise de estilo de código.
-** O código real/atual por motivos ÓBVIOS de segurança e proteção a mim e meu trabalho não sera em nenhuma hipótese divulgado. Como ja foi citado; este foi o primeiro esboço e unico que eu estarei divulgando sobre o software DropSense. 
+- Este código representa a primeira versão de estudo. Algumas métricas (como DV01 e DMV) estão incorretas e foram revisadas em versões posteriores. Mantive aqui apenas para portfólio e análise de estilo de código.
+- O código real/atual por motivos ÓBVIOS de segurança e proteção a mim e meu trabalho não sera em nenhuma hipótese divulgado. Como ja foi citado; este foi o primeiro esboço e unico que eu estarei divulgando sobre o software DropSense. 
 
            RESUMO
 Este repositório apresenta um esboço inicial da lógica de backend desenvolvida em C# com OpenCV para análise de cartões hidrossensíveis (utilizados em pulverizações agrícolas). O código aqui publicado não é a versão final usada no software DropSense, mas sim o primeiro protótipo funcional que escrevi durante a concepção do projeto. A lógica foi posteriormente reescrita e corrigida em Java (Android), além de sofrer diversas melhorias para produção. 
